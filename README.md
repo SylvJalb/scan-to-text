@@ -1,6 +1,6 @@
-# OCR Lettres
+# Scan To Text
 
-Text extraction from scanned handwritten letters using the **Mistral OCR** model (`mistral-ocr-2512`).
+Text extraction from scanned images (for exemple handwritten letters) using the **Mistral OCR** model (`mistral-ocr-2512`).
 
 ## Prerequisites
 
